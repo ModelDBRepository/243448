@@ -3,7 +3,7 @@ README for the Bladder Small DRG Neuron Soma Model - Mandge and Manchanda, 2018
 
 Reference
 
-A biophysically detailed computational model of bladder small DRG neuron soma- Mandge and Manchanda, 2018 (accepted PLOS Computational Biology), DOI: [10.1371/journal.pcbi.1006293](http://doi.org/10.1371/journal.pcbi.1006293))
+A biophysically detailed computational model of urinary bladder small DRG neuron soma- Mandge and Manchanda, 2018 (accepted PLOS Computational Biology), DOI: [10.1371/journal.pcbi.1006293](http://doi.org/10.1371/journal.pcbi.1006293))
 
 Abstract
 
@@ -43,3 +43,4 @@ gbar_skca3 (SKCa Conductance) to 0.0027 and 0.0045 mho/cm2:
 NOTE: restarting between simulation makes sure that the Current Clamp Panel parameters are properly set.
 
 20180622 Added some screenshots and light edits to the README.
+20180821 Update from Darshan Mandge: added "urinary" for finalized paper title
