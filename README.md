@@ -44,3 +44,11 @@ NOTE: restarting between simulation makes sure that the Current Clamp Panel para
 
 20180622 Added some screenshots and light edits to the README.
 20180821 Update from Darshan Mandge: added "urinary" for finalized paper title
+
+20190604 Update from Darshan Mandge: The following Jupyter
+notebook link works as a Live Paper created on the Human Brain
+Project (HBP) collaboratory:
+https://collab.humanbrainproject.eu/#/collab/54924/nav/375596
+
+To request an account to the Human Brain Project Collaboratory refer
+here: https://services.humanbrainproject.eu/oidc/account/request
